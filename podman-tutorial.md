@@ -3,9 +3,9 @@
 
 ## Apa itu Podman?
 **Podman** (Pod Manager) adalah container engine open-source yang dirancang sebagai alternatif modern untuk Docker. Keunggulan utamanya:
-- 🔐 **Rootless**: Jalankan container tanpa privilege root
-- 🚫 **Daemonless**: Tidak perlu background process
-- 📦 **Docker-compatible**: Mendukung OCI images dan Docker CLI
+- **Rootless**: Jalankan container tanpa privilege root
+- **Daemonless**: Tidak perlu background process
+- **Docker-compatible**: Mendukung OCI images dan Docker CLI
 
 ## Instalasi Podman
 ### Ubuntu/Debian
