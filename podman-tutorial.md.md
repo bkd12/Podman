@@ -1,6 +1,5 @@
 # Panduan Pemula untuk Podman: Container Runtime tanpa Daemon
 
-![Podman Logo](https://podman.io/images/podman.svg)
 
 ## Apa itu Podman?
 **Podman** (Pod Manager) adalah container engine open-source yang dirancang sebagai alternatif modern untuk Docker. Keunggulan utamanya:
